@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Личный Ассистент</string>
+    <string name="title_home">Заявки</string>
+    <string name="title_dashboard">База знаний</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Настройки</string>
+
+
+    <string name="theme">Тема</string>
+    <string name="theme_dark_button">Темная тема</string>
+    <string name="theme_light_button">Светлая тема</string>
+
+    <string name="statyi">Статьи</string>
+    <string name="zayavki">Заявки</string>
+    <string name="add_ticket">Новая заявка</string>
+    <string name="create">Создать</string>
+
+
+</resources>
