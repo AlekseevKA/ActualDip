@@ -102,7 +102,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="10dp"
                     android:layout_marginTop="10dp"
-                    android:text="Как вставить скриншот в заявку"
+                    android:text="Сделай норм, чтоб в этом фрагменте отображались списки баз знаний"
                     android:textColor="#979797"
                     android:textSize="16sp" />
 
